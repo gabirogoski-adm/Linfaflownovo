@@ -1,0 +1,8 @@
+{
+  "name": "LinfaFlow®",
+  "description": "Conheça o LinfaFlow: fórmula de 4 extratos vegetais, apoio à drenagem linfática e ao equilíbrio de líquidos. Veja avaliações, kits e modo de uso.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
